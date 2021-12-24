@@ -30,9 +30,9 @@ Not yet.
 
 ## **Education**
 * _2012-2016_, Kalashnikov Izhevsk State Technical University
-+ Direction: Instruments and methods of measurement control and diagnostics
+    + Direction: Instruments and methods of measurement control and diagnostics
 * _2021-present_, Rolling-scopes-school
-+ Direction: JS / Frontend Development. Preparatory stage
+    + Direction: JS / Frontend Development. Preparatory stage
 
 ## **English language**
 * Basic
