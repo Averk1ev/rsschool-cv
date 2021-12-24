@@ -5,7 +5,7 @@
 * **Email:** averkiev993@gmail.com
 * **Telegram:** @Averk1ev
 * **Discord:** @Averk1ev#6188
-* **Github:** [Averkiev] (https://github.com/Averk1ev)
+* **Github:** [Averkiev](https://github.com/Averk1ev)
 
 ## **About me**
 I am 27 years old. I have been working in an industrial enterprise for 5 years. 
